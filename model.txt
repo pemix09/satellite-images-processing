@@ -1,0 +1,10 @@
+Model z którego będziemy korzystać: 
+
+https://huggingface.co/flax-community/clip-rsicd-v2
+
+jest to fine-tunned clip z open-ai
+
+artykół na którego podstawie znalazłem ten model i zostało opisane jak oni to zrobili, 
+eby za pomocą tekstu wyszukiwać zdjęcia satelitarne:
+
+https://huggingface.co/blog/fine-tune-clip-rsicd

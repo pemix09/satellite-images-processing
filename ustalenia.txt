@@ -1,0 +1,28 @@
+Skład grupy:
+
+- Karol Hadzicki
+- Przemysław Klejno
+- Marcin Jakubik
+
+Lider grupy: Przemysław Klejno.
+
+Temat projektu: segmentowanie zdjęć satelitarnych lasów, rozpoznawanie obszaru drzew, wody, łąk, plaż, dróg, budynków
+
+
+Plan: 
+1. W piątek 19.04 pokazemy na jakich zdjęciach będziemy uczyć model
+2. Na następny tydzień przygotujemy funkcję do zwiększenia ilości zdjęć treningowych oraz przedstawimy cechy które będziemy rozpoznawać na zdjęciach
+...
+...
+... Kroki które wyjdą w trakcie o których będziemy informować na każdych zajęciach, żeby było wiadomo
+... co przygotujemy na następny tydzień
+...
+...
+3. Spróbójemy przetrenować model pod względem rozpoznawania rzeczy na zdjęciu
+4. Trening modelu na mniejszej ilości danych i oszacowanie czasu potrzebnego na przerobienie wszystkich danych
+5. Oszacowanie skuteczności modelu, przygotowanie odpowiednich wykresów między innymi:średniego błędu, sukcesu itd.
+...
+... Kolejne kroki które wyjdą, prawdopodobnie plan dopracujemy w piątek ( na najnbliszych zajęciach)
+... 
+7. Publikacja na stronie hugging face
+8. 13 czerwca - prezentacja i oddanie projektu
